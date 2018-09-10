@@ -1,0 +1,32 @@
+/* Style the body */
+
+body {
+    font-family: 'Indie Flower', cursive;
+    color: black;
+}
+
+/* Style the navbar */
+
+.navbar.navbar-default {
+    background-color: pink;
+}
+
+
+
+/* Style the container */
+
+.container-fluid, .container {
+    font-family: 'Indie Flower', cursive;
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    font-size: 21px;
+}
+
+.navbar-brand {
+    font-size: 23px;
+}
